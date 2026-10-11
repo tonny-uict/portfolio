@@ -1,42 +1,52 @@
-# TONNY SSEGAWA — Portfolio Hub
-Diploma in Computer Science student, Uganda. Ubuntu + Windows. Java, MySQL, HTML/CSS, JavaScript. Self-taught. Good English.
+# Tonny Ssegawa
+Full-stack Developer — Java, Spring Boot, React, JavaScript, MySQL. Diploma in Computer Science. Based in Kampala, Uganda. Open to remote work.
 
-Main profile: https://github.com/tonny-uict
-Live farm system: https://luk54.vercel.app (login needed - private client)
+- GitHub: https://github.com/tonny-uict
+- Portfolio: https://github.com/tonny-uict/portfolio
+- Live operations: https://luk54.vercel.app (restricted access)
+- Location: Kampala, Uganda
 
-## My work - all in one place
+## Selected Work
 
-### Client work - live systems with login
-1. **LUK54 Jalo Dream Farm - Operations** - https://github.com/jalodreamfarm/operations
-   Poultry farm dashboard. Tracks birds, mortality, eggs trays, feed kg, production %. Daily 89% target. JavaScript. Live locked for privacy.
-2. **rmusana/luk54** - https://github.com/rmusana/luk54
-   Farm system code. JavaScript. Client work.
-3. **rmusana/farm** - https://github.com/rmusana/farm
-   Farm project. JavaScript. Client work.
+### LUK54 — Jalo Dream Farm Operations
+Poultry farm operations dashboard. Opening, mortality, closing, eggs in trays, feed in kg, production percentage. Current flock 2,191 birds, 88–92% target range.
+- Stack: JavaScript
+- Code: https://github.com/jalodreamfarm/operations
+- Live: https://luk54.vercel.app (restricted client access)
+- Role: Design and implementation of operations tracking and reporting.
 
-### My business sites
-4. **Bonie Pastries - Events** - https://github.com/bravehartdigitalsolutions/boniepastries
-   Bakery events site. HTML. Fork to tonny-uict.
-5. **Chezeni Streets** - https://github.com/bravehartdigitalsolutions/chezenistreets
-   Street culture site. HTML. Fork to tonny-uict.
-6. **Boni Pastries Site** - https://github.com/Tonybr75/bonipastries-site
-   Pastries shop site. HTML.
-7. **KLA Phones** - https://github.com/Tonybr75/klaphones
-   Phone shop - best phones and services. HTML.
-8. **Computers Services** - https://github.com/Tonybr75/computers
-   Computer services shop. HTML.
+### SmartCampus — Student Management System
+Backend system for academic records. Student, lecturer, course, enrollment, attendance and results management with service-layer business logic.
+- Stack: Java, Spring Boot, MySQL
+- Code: https://github.com/tonny-uict/smartcampus (migration in progress, full source on request)
+- Role: Backend design and implementation.
 
-### Learning and tools
-9. **Learning C** - https://github.com/Tonybr75/Learning-C
-   My C language learning notes.
-10. **Project TBH** - https://github.com/Tonybr75/project-tbh
-    Practice project. CSS.
-11. **Bravehart LifeOS** - https://github.com/Tonybr75/bravehart-lifeos
-    Personal life dashboard. HTML.
-12. **School - DCS** - https://github.com/tonny-uict/SsegawaTonny-2025-DCS-DAY-0146
-    Diploma Computer Science assignments. Java.
+### AURELIA OS — Ngabi Gardens Motel Kinoni
+Hotel operating system covering front desk, reservations, rooms, guests, housekeeping, maintenance, restaurant POS, inventory, finance and analytics. Offline-capable with local persistence. Double-booking prevention, folio management, mobile money support.
+- Stack: React 19, TypeScript, Tailwind CSS
+- Status: Private client deployment. Demonstration and reference available on request.
+
+### Pearl Grand — Hotel Management PWA
+Offline-first hotel management application. 142 rooms, reservations with VAT and service charge, billing with MTN MoMo, Airtel, card payments, URA EFRIS fiscal documents with QR, biometric check-in.
+- Stack: JavaScript, PWA, WebAuthn
+- Status: Private deployment. Demonstration on request.
+
+### Commercial Websites
+- Bonie Pastries and Events — https://github.com/tonny-uict/boniepastries
+- Chezeni Streets — https://github.com/tonny-uict/chezenistreets
+- Boni Pastries Site — https://github.com/tonny-uict/bonipastries-site
+- KLA Phones — https://github.com/tonny-uict/klaphones
+- Computer Services — https://github.com/tonny-uict/computers
+Business websites in HTML/CSS. Product listings, services and contact flows.
+
+### Practice and School
+- Learning C — https://github.com/tonny-uict/Learning-C
+- Project TBH — https://github.com/tonny-uict/project-tbh
+- Bravehart LifeOS — https://github.com/tonny-uict/bravehart-lifeos
+- DCS Coursework — https://github.com/tonny-uict/SsegawaTonny-2025-DCS-DAY-0146
+
+## Skills
+Java, Spring Boot, JavaScript, React, TypeScript, HTML, CSS, MySQL, Ubuntu Linux, Windows, Git, Web Research, Technical Documentation.
 
 ## Contact
-- GitHub: https://github.com/tonny-uict
-- Location: Kampala, Uganda
-- Skills: Ubuntu terminal, Windows, Java basics, MySQL, HTML/CSS, JavaScript basics, Web Research, Good English
+Kampala, Uganda. GitHub: https://github.com/tonny-uict. Email and phone available on request.
