@@ -17,8 +17,8 @@ Poultry farm operations dashboard. Opening, mortality, closing, eggs in trays, f
 
 ### SmartCampus — Student Management System
 Backend system for academic records. Student, lecturer, course, enrollment, attendance and results management with service-layer business logic.
-- Stack: Java, Spring Boot, MySQL
-- Code: https://github.com/tonny-uict/smartcampus (migration in progress, full source on request)
+- Stack: Java 17, Spring Boot, MySQL
+- Code: https://github.com/tonny-uict/SsegawaTonny-2025-DCS-DAY-0146/tree/main/smartcampus
 - Role: Backend design and implementation.
 
 ### AURELIA OS — Ngabi Gardens Motel Kinoni
